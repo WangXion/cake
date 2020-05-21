@@ -1,0 +1,250 @@
+*{
+  margin: 0;
+  padding: 0;
+  list-style: none;
+  text-decoration: none;
+
+}
+//阿里样式
+@font-face {
+  font-family: '../iconfont';
+  src: url('../font_yof9jak8p9f/iconfont.eot');
+  src: url('../font_yof9jak8p9f/iconfont.eot?#iefix') format('embedded-opentype'),
+  url('../font_yof9jak8p9f/iconfont.woff2') format('woff2'),
+  url('../font_yof9jak8p9f/iconfont.woff') format('woff'),
+  url('../font_yof9jak8p9f/iconfont.ttf') format('truetype'),
+  url('../font_yof9jak8p9f/iconfont.svg#iconfont') format('svg');
+}
+.iconfont {
+  font-family: "iconfont" !important;
+  font-size: 16px;
+  font-style: normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+// 轮播
+.swiper-container {
+  width: 100%;
+  //  height: 220px;
+  img{
+    width: 100%;
+    height: 100%;
+
+  }
+}
+.Cro{
+  margin: 0 20px;
+  h3{
+    font-size: 24px;
+    color: #333;
+    line-height: 29px;
+    padding-top: 10px;
+  }
+  .title{
+    font-size: 14px;
+    line-height: 18px;
+  }
+  .price{
+    font-size: 22px;
+    color: #C69C6D;
+    height: 30px;
+    line-height: 30px;
+  }
+  .site{
+    color: #969696;
+    display: block;
+    margin: 5px 0;
+  }
+  .classify{
+    padding: 5px 0;
+  a{
+    display: inline-block;
+    line-height: 18px;
+    color: #D5BFA7;
+    padding: 0 12px;
+    border: 1px solid #D5BFA7;
+    border-radius: 100px;
+    margin-right: 6px;
+  }
+  }
+}
+.eye{
+  margin: 0 20px;
+  img{
+    width: 32px;
+    display: inline-block;
+    vertical-align: middle;
+    margin-right: 8px;
+  }
+}
+.particulars{
+  background: #FFF;
+  box-shadow: 0 3px 10px 0 rgba(0,0,0,0.10);
+  border-radius: 4px;
+  margin: 0 20px;
+  overflow: hidden;
+}
+.particulars{
+  background: #FFF;
+  box-shadow: 0 3px 10px 0 rgba(0,0,0,0.10);
+  border-radius: 4px;
+  margin: 0 20px;
+  overflow: hidden;
+  ul{
+    border-bottom: none;
+    background: rgba(199,178,153,0.20);
+    margin: 0;
+    padding-left: 14px;
+    position: relative;
+    li{
+      margin: 0;
+      padding: 0;
+      font-size: 12px;
+      color: #442818;
+
+      a{
+        height: 45px;
+        font-size: 13px;
+        line-height: 45px;
+        border-top: 1px solid #eee;
+        color: black;
+        span{
+          position: absolute;
+          right: 22px;
+        }
+      }
+    }
+  }
+  .distinction{
+    p:nth-child(1){
+
+      span:nth-child(1){
+        color: #C69C6D;
+            font-size: 20px;
+            margin: 5px 10px;
+          }
+      span:nth-child(2){
+        font-size: 12px;
+      }
+      span:nth-child(3){
+        color: #C69C6D;
+        font-size: 17px;
+        margin: 5px 10px;
+      }
+      span:nth-child(4){
+        font-size: 12px;
+      }
+    }
+    p:nth-child(2){
+      margin-top: 5px;
+      font-size: 12px;
+      span:nth-child(1){
+        color: #C69C6D;
+        font-size: 20px;
+        margin: 5px 10px;
+      }
+    }
+  }
+}
+.ntroduce{
+  padding: 15px;
+  background: #FFFFFF;
+  margin-top: 12px;
+  margin-left: 5px;
+  p{
+    font-size: 10px;
+    padding: 4px 0;
+  }
+
+}
+.contentImg{
+  margin: 10px 0;
+  width: 100%;
+  img{
+    width: 100%;
+  }
+}
+.message{
+  font-size: 12px;
+  color: #442818;
+  background: #F6F6F6;
+}
+.dibu{
+  width: 100%;
+  iframe{
+    width: 100%;
+    height: 200px;
+  }
+}
+.shop{
+  display: flex;
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+  height: 46px;
+  line-height: 46px;
+  font-size: 15px;
+
+  p:nth-child(1){
+    display: block;
+    background:white;
+    text-align: center;
+    line-height: 42px;
+    width: 50%;
+    a{
+color: black    }
+  }
+  p:nth-child(2){
+    display: block;
+    background:black;
+    text-align: center;
+    line-height: 42px;
+    width: 50%;
+    a{
+      color: white;
+    }
+  }
+}
+.prev{
+  span{
+    padding-bottom:10px;
+    display: inline-block;
+    color: grey;
+    z-index: 10;
+    width: 100%;
+    line-height: 10px;
+
+  }
+}
+.modalCase {
+  background-color: rgba(0, 0, 0, .5);
+  position: fixed;
+  z-index: 99998;
+  width: 100%;
+  height: 100%;
+  top: 0;
+  left: 0;
+  display: none;
+  .modalCont {
+    background-color: #fff;
+    position: relative;
+    transform: translateY(-50%);
+    top: 50%;
+    // transform: translateY(-50%);
+    left: 0;
+    width: 92%;
+    height: 80px;
+    margin: 0 4%;
+    z-index: 99999;
+    p {
+      font-size: 16px;
+      color: #BB9772;
+      line-height: 80px;
+      text-align: center;
+    }
+  }
+}
+
+
+
+

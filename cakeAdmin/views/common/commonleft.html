@@ -1,0 +1,42 @@
+<!--左侧固定导航-->
+<div class="sidebar-header d-flex align-items-center">
+  <div class="avatar"><img src="/img/avatar-6.jpg" alt="..." class="img-fluid rounded-circle"></div>
+  <div class="title">
+    <h1 class="h5">超级管理员</h1>
+    <p><%= username%></p>
+  </div>
+</div>
+
+<ul class="list-unstyled">
+  <li class="active"><a href="/"> <i class="icon-home"></i>网站主页 </a></li>
+
+  <li><a href="#homepage" aria-expanded="false" data-toggle="collapse">
+    <i class="icon-windows"></i>商品主页管理 </a>
+   <ul id="homepage" class="collapse list-unstyled ">
+    <li><a href="/banner"> <i class="icon-grid"></i>主页广告轮播 </a></li>
+    <li><a href="/commodityk"> <i class="fa fa-bar-chart"></i>商品主页内容</a></li>
+    <li><a href="/scholarship"> <i class="fa fa-bar-chart"></i>商品详情页内容</a></li>
+
+   </ul>
+ </li>
+
+<li><a href="#paging" aria-expanded="false" data-toggle="collapse">
+   <i class="icon-windows"></i>商品分页管理 </a>
+  <ul id="paging" class="collapse list-unstyled ">
+    <li><a href="/Mania">蛋糕</a></li>
+    <li><a href="/Cream ">冰淇淋</a></li>
+    <li><a href="/Coffee ">咖啡下午茶</a></li>
+    <li><a href="/Bread ">面包</a></li>
+    <li><a href="/Normal">常温蛋糕</a></li>
+    <li><a href="/Design">设计师礼品</a></li>
+  </ul>
+</li>
+<li><a href="/order"> <i class="fa fa-bar-chart"></i>订单详情</a></li>
+<li><a href="#User" aria-expanded="false" data-toggle="collapse"> <i class="icon-windows"></i>用户信息</a>
+  <ul id="User" class="collapse list-unstyled ">
+    <li><a href="/Trainee"><i class="fa fa-bar-chart"></i>管理员信息</a></li>
+    <li><a href="/Information"><i class="fa fa-bar-chart"></i>会员信息</a></li>
+  </ul>
+</li>
+<li><a href="/loginOut"> <i class="icon-logout"></i>退出登录</a></li>
+</ul>

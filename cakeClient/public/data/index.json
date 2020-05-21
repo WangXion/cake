@@ -1,0 +1,388 @@
+{
+  "newindex": [
+    {
+      "id":"1",
+      "name": "蓝莓丹麦",
+      "price":"￥13.80",
+      "img": "images/food1.jpg",
+      "weight":"/元66g",
+      "pound":"(1个)",
+      "count": 1,
+      "tally":"21cake「经典款面包持续稳定供应」",
+      "xqlunboImg":[
+        {"img":"images/xq1lb1.jpg"},
+        {"img":"images/xq1lb2.jpg"},
+        {"img":"images/xq1lb3.jpg"}
+      ],
+      "caption":"Croissant With Blueberry Jam",
+      "xqtitle":"蓝莓丹麦（京沪杭满39元包邮）",
+      "logo":[
+        {"tag":"儿童 ›"},
+        {"tag":"女性 ›"},
+        {"tag":"面包 ›"}
+      ],
+
+      "headline":"限区域上海（A30绕城以内），北京（五环以内）满39元包邮，杭州绕城以内39元包邮",
+      "xq1text":[
+        {"xq1text":"金黄，酥脆，"},
+        {"xq1text":"内部孔洞均匀舒展<br>咬它的口感，像踩在雪上野生蓝莓，"},
+        {"xq1text":"手工熬制酱心抿一下，蓝莓酱融化在油脂香气中"}
+      ],
+      "xqzhuImg":[
+        {"img":"images/xq1zhu1.jpg"},
+        {"img":"images/xq1zhu2.jpg"},
+        {"img":"images/xq1zhu3.jpg"},
+        {"img":"images/xq1zhu4.jpg"},
+        {"img":"images/xq1zhu5.jpg"},
+        {"img":"images/xq1zhu6.jpg"},
+        {"img":"images/xq1zhu7.jpg"}
+      ]
+    },
+    {
+      "id":"2",
+      "name": "（新卡百利）",
+      "price": "￥268.00",
+      "img": "images/food2.jpg",
+      "weight":"元/454g",
+      "pound":"(1.0磅)",
+      "count": 1,
+      "tally":"八个风味层次，让草莓果香次第送出",
+      "xqlunboImg":[
+        {"img":"images/xq2lb1.jpg"},
+        {"img":"images/xq2lb2.jpg"},
+        {"img":"images/xq2lb3.jpg"},
+        {"img":"images/xq2lb4.jpg"}
+      ],
+      "caption":"Strawberry Fool ",
+      "xqtitle":"（新）卡百利（丰香奶油）",
+      "logo":[
+        {"tag":"情侣 ›"},
+        {"tag":"聚会 ›"},
+        {"tag":"生日 ›"}
+      ],
+      "headline":"因丰香草莓稀有，此款预订时间较长。",
+      "xq1text":[
+        {"xq1text":"产品限量，需提前预定。"}
+      ],
+      "xqzhuImg":[
+        {"img":"images/xq2zhu1.jpg"},
+        {"img":"images/xq2zhu2.jpg"},
+        {"img":"images/xq2zhu3.jpg"},
+        {"img":"images/xq2zhu4.jpg"},
+        {"img":"images/xq2zhu5.jpg"},
+        {"img":"images/xq2zhu6.jpg"},
+        {"img":"images/xq2zhu7.jpg"},
+        {"img":"images/xq2zhu8.jpg"},
+        {"img":"images/xq2zhu9.jpg"},
+        {"img":"images/xq2zhu10.jpg"},
+        {"img":"images/xq2zhu11.jpg"},
+        {"img":"images/xq2zhu12.png"}
+      ]
+    },
+    {
+      "id":"3",
+      "name": "（新）栗蓉暗香",
+      "price": "￥298.00",
+      "img": "images/food3.jpg",
+      "weight":"454",
+      "pound":"(2.0磅)",
+      "count": 1,
+      "tally":"新栗上市，栗香正浓",
+      "xqlunboImg":[
+        {"img":"images/xq3lb1.jpg"},
+        {"img":"images/xq3lb2.jpg"},
+        {"img":"images/xq3lb3.jpg"}
+      ],
+      "caption":"Croissant With Blueberry Jam",
+      "xqtitle":"（新）栗蓉暗香",
+      "logo":[
+        {"tag":"儿童 ›"},
+        {"tag":"聚会 ›"},
+        {"tag":"长辈 ›"},
+        {"tag":"栗子蛋糕 ›"}
+      ],
+      "headline":"",
+      "xq1text":[
+        {"xq1text":"栗子烘烤的蛋糕坯，鲜栗蓉"},
+        {"xq1text":"Chestnuts and real fresh cream go so well together you know this isn’t going to be a short term dalliance. In fact, one whiff of the aroma of Chestnut Cream and you’ll realize you’re attending their wedding..."}
+      ],
+      "xqzhuImg":[
+        {"img":"images/xq3zhu1.jpg"},
+        {"img":"images/xq3zhu2.jpg"},
+        {"img":"images/xq3zhu3.jpg"},
+        {"img":"images/xq3zhu4.jpg"},
+        {"img":"images/xq3zhu5.jpg"},
+        {"img":"images/xq3zhu6.png"},
+        {"img":"images/xq3zhu7.jpg"}
+      ]
+    },
+    {
+    "id":"4",
+    "name": "深爱",
+    "price": "￥268.00",
+    "img": "images/banner1.jpg",
+    "weight":"66",
+    "pound":"(1.0磅)",
+    "count": 1,
+    "tally":"你深爱过吗？",
+      "xqlunboImg":[
+        {"img":"images/xq4lb1.jpg"},
+        {"img":"images/xq4lb2.jpg"},
+        {"img":"images/xq4lb3.jpg"},
+        {"img":"images/xq4lb4.jpg"}
+      ],
+    "caption":"Deep Bailey's Lovers",
+    "xqtitle":"深爱",
+      "logo":[
+        {"tag":"情侣 ›"},
+        {"tag":"人气 ›"}
+      ],
+    "headline":"",
+      "xq1text":[
+        {"xq1text":"奶油中调入玫瑰甘露，整体色泽加深"},
+        {"xq1text":"丰富口感*玫瑰花瓣经过消毒处理，仅用作装饰使用（使用围边纸与蛋糕隔开）"},
+        {"xq1text":"夹心中增加可咀嚼的玫瑰蜜饯，"},
+        {"xq1text":"不可食用。3月14日起替换为“指纹玫瑰”包装（限1磅、2磅）"}
+      ],
+      "xqzhuImg":[
+        {"img":"images/xq4zhu1.jpg"},
+        {"img":"images/xq4zhu2.jpg"},
+        {"img":"images/xq4zhu3.jpg"},
+        {"img":"images/xq4zhu4.jpg"},
+        {"img":"images/xq4zhu5.jpg"},
+        {"img":"images/xq4zhu6.jpg"},
+        {"img":"images/xq4zhu7.jpg"},
+        {"img":"images/xq4zhu8.png"}
+      ]
+  },
+    {
+    "id":"5",
+    "name": "芒果奶油",
+    "price": "￥198.00",
+    "img": "images/banner2.jpg",
+    "weight":"980",
+    "pound":"(2.0磅)",
+    "count": 1,
+    "tally":"坚持自然成熟，应季鲜切芒果",
+    "xqlunboImg":[
+      {"img":"images/xq5lb1.jpg"}
+         ],
+    "caption":"Mango Cream Cake",
+    "xqtitle":"芒果奶油蛋糕",
+      "logo":[
+        {"tag":"情侣 ›"},
+        {"tag":"儿童 ›"},
+        {"tag":"聚会 ›"},
+        {"tag":"人气 ›"},
+        {"tag":"生日 ›"}
+      ],
+    "headline":"*此款为应季水果蛋糕，可能受限于原料供应；如无法交付，我们会主动联系您进行更换。",
+      "xq1text":[
+        { "xq1text":"不使用罐头水果和植混奶油，坚持自然成熟"},
+        { "xq1text":"应季鲜切芒果，新西兰纯乳脂奶油，自研芒果百香果慕斯夹心"},
+        { "xq1text":"高价值，平价水果蛋糕"},
+        { "xq1text":"21cake惠客款，不与其他优惠同享。"}
+      ],
+      "xqzhuImg":[
+        {"img":"images/xq5zhu1.jpg"},
+        {"img":"images/xq5zhu2.jpg"},
+        {"img":"images/xq5zhu3.jpg"},
+        {"img":"images/xq5zhu4.jpg"},
+        {"img":"images/xq5zhu5.jpg"},
+        {"img":"images/xq5zhu6.jpg"},
+        {"img":"images/xq5zhu7.png"},
+        {"img":"images/xq5zhu8.jpg"}
+      ]
+  },
+    {
+    "id":"6",
+    "name": "米道",
+    "price": "￥298.00",
+    "img": "images/banner3.jpg",
+    "weight":"454",
+    "pound":"(1.0磅)",
+    "count": 1,
+    "tally":"天然、天真是这款蛋糕的唯一出发点",
+      "xqlunboImg":[
+        {"img":"images/xq6lb1.jpg"},
+        {"img":"images/xq6lb2.jpg"},
+        {"img":"images/xq6lb3.jpg"},
+        {"img":"images/xq6lb4.jpg"},
+        {"img":"images/xq6lb5.jpg"}
+      ],
+    "caption":"Mango Cream Cake",
+    "xqtitle":"米道",
+      "logo":[
+        {"tag":"儿童 ›"},
+        {"tag":"生日 ›"},
+        {"tag":"人气 ›"}
+      ],
+    "headline":"一款专门为儿童设计，以天然植物为基础的蛋糕，非高脂、非高糖。",
+    "xq1text":[
+      {"xq1text":"天真、天然"},
+      {"xq1text":" 是我们做这款蛋糕唯一的出发点"}
+    ],
+      "xqzhuImg":[
+        {"img":"images/xq6zhu1.jpg"},
+        {"img":"images/xq6zhu2.jpg"},
+        {"img":"images/xq6zhu3.jpg"},
+        {"img":"images/xq6zhu4.jpg"},
+        {"img":"images/xq6zhu5.jpg"},
+        {"img":"images/xq6zhu6.jpg"},
+        {"img":"images/xq6zhu7.jpg"},
+        {"img":"images/xq6zhu8.jpg"},
+        {"img":"images/xq6zhu9.png"}
+      ]
+  },
+    {
+    "id":"7",
+    "name": "榴莲飘飘",
+    "price": "￥298.00",
+    "img": "images/banner4.jpg",
+    "weight":"980",
+    "pound":"(2.0磅)",
+    "count": 1,
+      "tally":"严格捍卫榴莲狂热者的权利",
+      "xqlunboImg":[
+        {"img":"images/xq7lb1.jpg"},
+        {"img":"images/xq7lb2.jpg"}
+      ],
+      "caption":" A Picture of Durian Grey ",
+      "xqtitle":[
+        {"xqtitle":"榴莲飘飘"}
+      ],
+      "logo":[
+        {"tag":"人气 ›"},
+        {"tag":"生日 ›"}
+      ],
+      "headline":"",
+      "xq1text":[
+        {"xq1text":"自然成熟的泰国榴莲，在曼谷，官兵后代庭院中，生长着一百年至一百五十年的榴莲树"},
+        {"xq1text":"Imagine if an object could bear the weight of all your sins, while you swan about ever beautiful. The durian fruit bears the weight of its sins on the outside, in the form of its malodorous stench.  "}
+      ],
+      "xqzhuImg":[
+        {"img":"images/xq7zhu1.jpg"},
+        {"img":"images/xq7zhu2.jpg"},
+        {"img":"images/xq7zhu3.jpg"},
+        {"img":"images/xq7zhu4.jpg"},
+        {"img":"images/xq7zhu5.jpg"},
+        {"img":"images/xq7zhu6.jpg"},
+        {"img":"images/xq7zhu7.png"},
+        {"img":"images/xq7zhu8.jpg"}
+      ]
+  },
+
+    {
+      "id":"8",
+      "name": "朗姆芝士",
+      "price": "￥298.00",
+      "img": "images/banner5.jpg",
+      "weight":"454",
+      "pound":"（1.0磅）",
+      "count": 1,
+      "tally":"香滑的乳酪与波多黎各朗姆酒",
+      "xqlunboImg":[
+        {"img":"images/xq8lb1.jpg"},
+        {"img":"images/xq8lb2.jpg"},
+        {"img":"images/xq8lb3.jpg"}
+      ],
+      "caption":"Rum Cheese Cake",
+      "xqtitle":[
+        {"xqtitle":"朗姆芝士"}
+      ],
+      "logo":[
+        {"tag":"情侣 ›"},
+        {"tag":"生日 ›"}
+      ],
+      "headline":"",
+      "xq1text":[
+        {  "xq1text":"香滑的乳酪与打开的一瓶波多黎各朗姆酒,酒香，微苦，清新的柠檬"},
+        {  "xq1text":"Shiver me timbers! Here’s a rum one – but unlike most of its seafaring fellows our rum cheesecake is far from swarthy"}
+      ],
+      "xqzhuImg":[
+        {"img":"images/xq8zhu1.jpg"},
+        {"img":"images/xq8zhu2.jpg"},
+        {"img":"images/xq8zhu3.jpg"},
+        {"img":"images/xq8zhu4.jpg"},
+        {"img":"images/xq8zhu5.jpg"},
+        {"img":"images/xq8zhu6.png"},
+        {"img":"images/xq8zhu7.png"},
+        {"img":"images/xq8zhu8.jpg"}
+      ]
+    },
+    {
+      "id":"9",
+      "name": "百香果酸乳酪慕斯",
+      "price": "298.00",
+      "img": "images/banner6.jpg",
+      "weight":"454",
+      "pound":"(1.0磅)",
+      "count": 1,
+      "tally":"冰淇淋口感，不同层次的酸与冰凉",
+      "xqlunboImg":[
+        {"img":"images/xq9lb1.jpg"},
+        {"img":"images/xq9lb2.gif"},
+        {"img":"images/xq9lb3.jpg"},
+        {"img":"images/xq9lb4.jpg"},
+        {"img":"images/xq9lb5.jpg"}
+      ],
+      "caption":"Easycake",
+      "xqtitle":[
+        {"xqtitle":"百香果酸乳酪慕斯（木糖醇）"}
+      ],
+      "logo":[
+        {"tag":"情侣 ›"},
+        {"tag":"低温 ›"},
+        {"tag":"新品 ›"},
+        {"tag":"儿童 ›"}
+      ],
+      "headline":"",
+      "xq1text":[
+        {"xq1text":"何况它，有超过130种芳香，"},
+        {"xq1text":"除了酸味，百香果是世界上已知，充满芳香的水果之一。"},
+        {"xq1text":"冰淇淋口感，不同层次的酸与冰凉，"},
+        {"xq1text":"*本品使用木糖醇代替蔗糖，口感无差别。"}
+      ],
+      "xqzhuImg":[
+        {"img":"images/xq9zhu1.jpg"},
+        {"img":"images/xq9zhu2.jpg"},
+        {"img":"images/xq9zhu3.jpg"},
+        {"img":"images/xq9zhu4.jpg"},
+        {"img":"images/xq9zhu5.png"},
+        {"img":"images/xq9zhu6.jpg"}
+      ]
+    },
+    {
+      "id":"10",
+      "name": "彼尔德（ＨＢＤ）",
+      "price": "￥198.00",
+      "img": "images/banner7.jpg",
+      "weight":"454",
+      "pound":"1.0",
+      "count": 1,
+      "tally":"彼尔德联名款--猪年限定版 ",
+      "xqlunboImg":[
+        {"img":"images/xq10lb1.jpg"},
+        {"img":"images/xq10lb2.jpg"},
+        {"img":"images/xq10lb3.jpg"}
+      ],
+      "caption":"Black and White Chocolate Mousse",
+      "xqtitle":[
+        {"xqtitle":"黑白巧克力慕斯彼尔德（ＨＢＤ）"}
+      ],
+      "logo":[
+        {"tag":"设计师款 ›"},
+        {"tag":"新品 ›"}
+      ],
+      "headline":"",
+      "xq1text":[
+        {"xq1text":"彼尔德联名款--猪年限定版  "}
+      ],
+      "xqzhuImg":[
+        {"img":"images/xq10zhu1.gif"},
+        {"img":"images/xq10zhu2.jpg"},
+        {"img":"images/xq10zhu3.png"}
+      ]
+    }
+  ]
+}

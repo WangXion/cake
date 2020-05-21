@@ -1,0 +1,184 @@
+{
+  "dangao":[
+    {
+          "id":"11",
+          "img":"images/list1.jpg",
+          "name": "深爱",
+          "price": "¥268.00",
+          "weight":"/454g",
+          "pound":"(1.0磅)",
+          "count": 1,
+          "xqlunboImg":[
+            {"img":"images/listdgxqlb1.jpg"},
+            {"img":"images/listdgxqlb2.jpg"},
+            {"img":"images/listdgxqlb3.jpg"},
+            {"img":"images/listdgxqlb4.jpg"}
+          ],
+          "caption":"Deep Bailey's Lovers",
+          "xqtitle":"蓝莓丹麦（京沪杭满39元包邮）",
+          "logo":[
+            {"tag":"情侣 ›"},
+            {"tag":"人气 ›"}
+          ],
+
+          "headline":"",
+
+          "xqtext":[
+            {"xq1text":"奶油中调入玫瑰甘露，整体色泽加深"},
+            {"xq1text":"夹心中增加可咀嚼的玫瑰蜜饯，丰富口感"},
+            {"xq1text":"玫瑰花瓣经过消毒处理，仅用作装饰使用（使用围边纸与蛋糕隔开），不可食用。"},
+            {"xq1text":"3月14日起替换为“指纹玫瑰”包装（限1磅、2磅）"}
+          ],
+          "xqzhuImg":[
+            {"img":"images/listxqdgzhu1.jpg"},
+            {"img":"images/listxqdgzhu2.jpg"},
+            {"img":"images/listxqdgzhu3.jpg"},
+            {"img":"images/listxqdgzhu4.jpg"},
+            {"img":"images/listxqdgzhu5.jpg"},
+            {"img":"images/listxqdgzhu6.jpg"},
+            {"img":"images/listxqdgzhu7.jpg"},
+            {"img":"images/listxqdgzhu8.jpg"},
+            {"img":"images/listxqdgzhu9.png"}
+          ]
+    },
+    {
+      "id":"12",
+      "img":"images/list2.jpeg",
+      "price": "¥268.00",
+      "weight":"/908g",
+      "pound":"(2.0磅)",
+      "count": 1,
+      "xqlunboImg":[
+        {"img":"images/listdg2xqlb1.jpg"},
+        {"img":"images/listdg2xqlb2.jpg"}
+      ],
+      "caption":"Strawberry Cream Cake",
+      "xqtitle":"草莓奶油蛋糕",
+      "logo":[
+        {"tag":"情侣 ›"},
+        {"tag":"人气 ›"}
+      ],
+
+      "headline":"此款为应季水果蛋糕，可能受限于原料供应；如出现无法交付的情况，届时我们会主动联系您进行告知。",
+      "xqtext":[
+        {"xq1text":"草莓配奶油，从王室，前往温布尔登的雨季"},
+        {"xq1text":"Now 21cake has encapsulated this gloriously English tradition in square cake form. At Wimbledon, which dates back to 1877, protocol and propriety rule. Players must wear white..."}
+      ],
+      "xqzhuImg":[
+        {"img":"images/listxqdg2zhu1.jpg"},
+        {"img":"images/listxqdg2zhu2.jpg"},
+        {"img":"images/listxqdg2zhu3.jpg"},
+        {"img":"images/listxqdg2zhu4.jpg"},
+        {"img":"images/listxqdg2zhu5.jpg"},
+        {"img":"images/listxqdg2zhu6.png"},
+        {"img":"images/listxqdg2zhu7.jpg"}
+      ]
+    },
+    {
+      "id":"13",
+      "img":"images/list3.jpg",
+      "price": "¥298.00",
+       
+      "weight":"/908g",
+      "pound":"(2.0磅)",
+      "count": 1,
+      "xqlunboImg":[
+        {"img":"images/listdg3xqlb1.jpg"},
+        {"img":"images/listdg3xqlb2.jpg"},
+        {"img":"images/listdg3xqlb3.jpg"},
+        {"img":"images/listdg3xqlb4.jpg"},
+        {"img":"images/listdg3xqlb5.jpg"}
+      ],
+      "caption":"Blue Monday",
+      "xqtitle":"黑越橘",
+      "logo":[
+        {"tag":"人气 ›"}
+      ],
+
+      "headline":"",
+      "xqtext":[
+        {"xq1text":"从苏必利尔湖西端，至安大略湖东端的1400公里，是北美五大湖所经流域/"},
+        {"xq1text":"这里，是黑越橘（野生蓝莓）的天堂/"},
+        {"xqtext":"Got those Monday blues? It’s time for a Blue Monday. Premium fresh blueberry jam atop a joyous mountain of creamy cheesecake, topped off with a Joy Division of the freshest..."}
+      ],
+      "xqzhuImg":[
+        {"img":"images/listxqdg3zhu1.gif"},
+        {"img":"images/listxqdg3zhu2.jpg"},
+        {"img":"images/listxqdg3zhu3.png"}
+      ]
+    },
+    {
+      "id":"14",
+      "img":"images/list4.jpg",
+      "price": "¥298.00",
+      "weight":"/908g",
+      "pound":"(2.0磅)",
+      "count": 1,
+      "xqlunboImg":[
+        {"img":"images/listdg4xqlb1.jpg"},
+        {"img":"images/listdg4xqlb2.jpg"},
+        {"img":"images/listdg4xqlb3.jpg"},
+        {"img":"images/listdg4xqlb4.jpg"}
+      ],
+      "caption":"The Nut Job Big ",
+      "xqtitle":"布莱克",
+      "logo":[
+        {"tag":"一人份 ›"},
+        {"tag":"人气 ›"}
+      ],
+
+      "headline":"",
+      "xqtext":[
+        {"xq1text":"比利时黑巧克力与中国榛子，淡苦与干脆，浓香丰满"},
+        {"xq1text":"Crazily crisp dark chocolate and kookily nutty fist fulls of Chinese hazelnuts make this one nut job you won’t want to lock up. "}
+      ],
+      "xqzhuImg":[
+        {"img":"images/listxqdg4zhu1.jpg"},
+        {"img":"images/listxqdg4zhu2.jpg"},
+        {"img":"images/listxqdg4zhu3.jpg"},
+        {"img":"images/listxqdg4zhu4.jpg"},
+        {"img":"images/listxqdg4zhu5.jpg"},
+        {"img":"images/listxqdg4zhu6.jpg"},
+        {"img":"images/listxqdg4zhu7.png"}
+
+      ]
+    },
+    {
+      "id":"15",
+      "img":"images/list4.jpg",
+      "price": "￥268.00",
+      "weight":"/908g",
+      "pound":"(2.0磅)",
+      "count": 1,
+      "xqlunboImg":[
+        {"img":"images/listdg4xqlb1.jpg"},
+        {"img":"images/listdg4xqlb2.jpg"},
+        {"img":"images/listdg4xqlb3.jpg"},
+        {"img":"images/listdg4xqlb4.jpg"}
+      ],
+      "caption":"Strawberry Fool ",
+      "xqtitle":"（新）卡百利（丰香奶油）",
+      "logo":[
+        {"tag":"一人份 ›"},
+        {"tag":"人气 ›"}
+      ],
+
+      "headline":"",
+      "xqtext":[
+        {"xq1text":"比利时黑巧克力与中国榛子，淡苦与干脆，浓香丰满"},
+        {"xq1text":"Crazily crisp dark chocolate and kookily nutty fist fulls of Chinese hazelnuts make this one nut job you won’t want to lock up. "}
+      ],
+      "xqzhuImg":[
+        {"img":"images/listxqdg4zhu1.jpg"},
+        {"img":"images/listxqdg4zhu2.jpg"},
+        {"img":"images/listxqdg4zhu3.jpg"},
+        {"img":"images/listxqdg4zhu4.jpg"},
+        {"img":"images/listxqdg4zhu5.jpg"},
+        {"img":"images/listxqdg4zhu6.jpg"},
+        {"img":"images/listxqdg4zhu7.png"}
+
+      ]
+    }
+
+]
+}
